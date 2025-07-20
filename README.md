@@ -9,7 +9,7 @@ This dissertation explores how firms that commit accounting fraud may also manip
 
 ## Files Included
 
-- `Dissertation.docx` – Full submitted dissertation
+- `Undergraduate_Dissertation.docx` – Full submitted dissertation
 
 ---
 
