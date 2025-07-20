@@ -33,6 +33,6 @@ This dissertation explores how firms that commit accounting fraud may also manip
 
 ---
 
-> Developed as part of an emperical finance project in 2024, supervised by Dr. Georgios Loukopoulos
+> Developed as part of an emperical finance project in 2024, supervised by Dr. Georgios Loukopoulos, University of Sussex
 .
 
